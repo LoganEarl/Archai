@@ -1,0 +1,19 @@
+{
+  "name": "rollbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rollBot.js",
+  "scripts": {
+    "main": "rollBot.js"
+  },
+  "author": "CartOfSwine",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eris": "^0.10.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "common-words": "^0.1.3"
+  }
+}
